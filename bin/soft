@@ -1,0 +1,4 @@
+[test]
+version=release1.201911.16
+branch=Lead OS
+down=https://raw.githubusercontent.com/leadsoft-ware/Lead-Software-repo/master/soft/tes/test

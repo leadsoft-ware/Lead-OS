@@ -1,0 +1,6 @@
+[Lead-OS]
+version=beta.r1.20191110.kernel_link.r4
+branch=Lead OS
+genTime=2019/11/10
+clientID=3b80bcfd-e3b7-a705-8354-3e2826dfcb5a
+soft-source=https://raw.githubusercontent.com/leadsoft-ware/Lead-Software-repo/master/soft/soft
